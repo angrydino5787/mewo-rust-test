@@ -12,6 +12,8 @@
 
 
 
+
+
 ## Mewo – Key Advantages
 
 - 100% external cheat (no injection = lowest detection risk)  
@@ -20,6 +22,8 @@
 - Clean & simple UI (minimal overlay, no bloat)  
 - Supports universal + game-specific features  
 - Regular updates (fast response to Rust patches)
+
+![2a3a1800baf181462eacb29890342bb6(1)](https://github.com/user-attachments/assets/db076165-7710-46da-acca-972e194a1340)
 
 **Supported:** Windows 10/11 | Rust Client (Latest 2026)  
 **Status:** Undetected (January 2026)
